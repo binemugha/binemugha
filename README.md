@@ -2,10 +2,9 @@
 
 ## Hi there, I'm [Benjamin Inemugha!](https://www.binemugha.com) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/binemugha">
+  <img align="left" alt="Benjamin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/benjamin-inemugha/">
   <img align="left" alt="Benjamin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,7 +24,7 @@
 - 🌱 I’m currently learning more about Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on App Ideas.
 - 💬 Ask me about Swift or Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @binemugha](https://twitter.com/binemugha) , [LinkedIn - Benjamin Inemugha](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @binemugha](https://twitter.com/binemugha) , [LinkedIn - Benjamin Inemugha](https://www.linkedin.com/in/benjamin-inemugha/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I got a Guinness World Title in 2018.
 
@@ -37,6 +36,7 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
