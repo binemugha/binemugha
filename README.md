@@ -1,18 +1,16 @@
-### Hi there 👋
-
 ## Hi there, I'm [Benjamin Inemugha!](https://www.binemugha.com) 👋
 
 
-<a href="https://twitter.com/binemugha">
+<a href="https://twitter.com/binemugha" target="_blank">
   <img align="left" alt="Benjamin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/benjamin-inemugha/">
+<a href="https://www.linkedin.com/in/benjamin-inemugha/" target="_blank">
   <img align="left" alt="Benjamin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/binemugha">
+<a href="https://github.com/binemugha" target="_blank">
   <img align="left" alt="Benjamin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/binemugha">
+<a href="https://twitter.com/binemugha" target="_blank">
   <img align="left" alt="Benjamin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -37,10 +35,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
    
 
-<a href="https://github.com/binemugha">
+<a href="https://github.com/binemugha" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binemugha&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/binemugha">
+<a href="https://github.com/binemugha" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=binemugha&show_icons=true&theme=light&line_height=27" alt="Benjamin's github stats"/>
 </a>
 
