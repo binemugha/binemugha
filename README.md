@@ -28,17 +28,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I got a Guinness World Title in 2018.
 
-[![Twitter: binemugha](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/binemugha)
-[![Linkedin: Benjamin Inemugha](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-inemugha/)](https://www.linkedin.com/in/benjamin-inemugha/)
-[![GitHub binemugha](https://img.shields.io/github/followers/binemugha?label=follow&style=social)](https://github.com/binemugha)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://www.binemugha.com)
-
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
    
 
