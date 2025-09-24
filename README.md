@@ -1,8 +1,8 @@
 ## Hi there, I'm [Benjamin Inemugha!](https://www.binemugha.com) 👋
 
 
-<a href="https://twitter.com/binemugha" target="_blank">
-  <img align="left" alt="Benjamin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.binemugha.com" target="_blank">
+  <img align="left" alt="Benjamin's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 </a>
 <a href="https://www.linkedin.com/in/benjamin-inemugha/" target="_blank">
   <img align="left" alt="Benjamin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
